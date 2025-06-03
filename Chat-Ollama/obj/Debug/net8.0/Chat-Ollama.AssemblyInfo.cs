@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chat-Ollama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dbfaa375db57858bb76b00305fc69910c549763")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chat-Ollama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chat-Ollama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
